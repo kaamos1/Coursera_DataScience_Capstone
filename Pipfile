@@ -8,6 +8,8 @@ numpy = "*"
 jupyter = "*"
 pandas = "*"
 matplotlib = "*"
+requests = "*"
+lxml = "*"
 
 [dev-packages]
 
